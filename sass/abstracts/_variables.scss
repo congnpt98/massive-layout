@@ -1,0 +1,27 @@
+// Padding
+// Margin
+
+// Font-size
+$fs-base: 1rem; //Browser default 16px
+$fs-sm: $fs-base * 0.875; //14px
+$fs-sm-0: $fs-base * 0.75; //12px
+$fs-sm-1: $fs-base * 0.625; //10px
+$fs-lg: $fs-base * 1.25; //20px
+$fs-lg-0: $fs-base * 1.5; //24px
+$fs-lg-1: $fs-base * 1.875; //30px
+$fs-lg-2: $fs-base * 2.25; //36px
+$fs-extra-lg: $fs-base * 3.75; //36px
+
+// Font-weight
+$fw-light: 300;
+$fw-normal: 500;
+$fw-bold: 700;
+
+// Line-height
+$lh-base: 1.5;
+$lh-sm: 1.25;
+$lh-lg: 2;
+
+// Letter-spacing
+$ls-base: .5px;
+$ls-lg: 1px;
